@@ -17,3 +17,6 @@ git add
 git commmit
 git push
 git pull
+git fetch
+git branch name
+git checkout name
